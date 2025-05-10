@@ -1,5 +1,7 @@
 # Sentinel Layer (Gr00t Sentinel Layer)
 
+Gr00t Guardian Agent Sentinel.
+
 Cognitive firewall and behavior containment module.
 
 _Status: In development._
