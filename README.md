@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="http://deepsweep.ai/wp-content/uploads/2019/05/GitHub-Banner-1280x400-1.png" alt="DeepSweep.ai – Cognitive Security Platform" width="100%" />
+  <img src="http://deepsweep.ai/wp-content/uploads/2019/05/GitHub-Banner-1280x400-1.png" alt="DeepSweep.ai – Cognitive Security & Governance Platform" width="100%" />
 </p>
 
 <p align="center">
-  <b>Cognitive Security for the Age of Superintelligence</b><br />
+  <b>Cognitive Security & Governance for the Age of Superintelligence</b><br />
   <a href="https://deepsweep.ai/white-paper">White Paper</a> • 
   <a href="https://deepsweep.ai/pilot-access">Pilot Access</a> • 
   <a href="mailto:info@deepsweep.ai">Contact</a>
 </p>
-
-# cognitive-security-platform
-The Cognitive Security Platform for Intelligent Systems - by DeepSweep.ai
-# DeepSweep.ai – Cognitive Security Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%202.0%20Ready-Yes-blueviolet" />
@@ -20,9 +16,13 @@ The Cognitive Security Platform for Intelligent Systems - by DeepSweep.ai
   <img src="https://img.shields.io/badge/Pilot%20Available-Now-brightgreen" />
 </p>
 
+# cognitive-security-platform
+The Cognitive Security & Governance Platform for Intelligent Systems - by DeepSweep.ai
+# DeepSweep.ai – Cognitive Security & Governance Platform
+
 **Cybersecurity Reimagined for the Age of Superintelligence**
 
-DeepSweep.ai is the world’s first **Cognitive Security platform** built from the ground up to secure intelligent systems, AI agents, federated model meshes, and autonomous operations across edge, cloud, and hybrid environments.
+DeepSweep.ai is the world’s first **Cognitive Security & Governance platform** built from the ground up to secure intelligent systems, AI agents, federated model meshes, and autonomous operations across edge, cloud, and hybrid environments.
 
 Our platform doesn’t just protect the infrastructure — it protects **the intelligence layer**.
 
