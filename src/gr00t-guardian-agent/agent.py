@@ -8,7 +8,7 @@ def load_config(path="sample_config.yaml"):
         return yaml.safe_load(f)
 
 def monitor_logs(config):
-    print(f"[{datetime.now()}] Guardian Agent Started.")
+    print(f"[{datetime.now()}] Gr00t Guardian Agent Started.")
     policy_threshold = config.get("drift_threshold", 0.8)
 
     with open("demo_logs.json", "r") as f:
