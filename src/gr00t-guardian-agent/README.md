@@ -24,8 +24,8 @@ The Guardian Agent acts as a **real-time boundary enforcer**, monitoring behavio
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/deepsweep-ai/guardian-agent.git
-cd guardian-agent
+git clone https://github.com/deepsweep-ai/cognitive-security-platform/gr00t-guardian-agent.git
+cd gr00t-guardian-agent
 pip install -r requirements.txt
 2. Run the Agent
 python agent.py
