@@ -11,7 +11,11 @@ This is the cognitive behavioral firewall — it watches how agents behave, evol
 Key Functions:
 
 Pattern monitoring for malicious evolution
+
 Containment triggers (quarantine, rollback, patch)
+
 Passive & active oversight of agent decision trees
+
 Integration with ETT/ETTL (Explainable Thought Trace Logging) module
+
 🧠 Analogy: It’s your "cognitive SOC + kill switch + internal surveillance AI" for agents.
